@@ -692,8 +692,7 @@
             "Raindance",
             "Heat Wave",
             "Idols",
-            "Bloodbath",
-            "Aftermath"
+            "Bloodbath"
           
         
         ],
@@ -790,8 +789,7 @@
             "Misty Mountains",
             "Night Party",
             "Want Me",
-            "Disentombed",
-            "Unearthed"
+            "Disentombed"
         ],
         "progs": [
             {
@@ -1068,8 +1066,7 @@
             "Niflheim",
             "Super Probably Level",
             "Artificial Dream",
-            "Hypersonic",
-            "Aronia"
+            "Hypersonic"
         ],
         "progs": [
             {
@@ -1137,15 +1134,7 @@
             "Zettabyte",
             "Night Party",
             "Mandragora",
-            "Black Blizzard",
-            "Fexty",
-            "Twisted Tranquility",
-            "Audio Extraction",
-            "Glide",
-            "Thanatophobia",
-            "Allegiance",
-            "Hypersonic",
-            "Excessive Compliment"
+            "Black Blizzard"
 
         ],
         "progs": [
@@ -1249,8 +1238,7 @@
             "Acu",
             "Zettabyte",
             "Excessive Compliment",
-            "Glide",
-            "Novalis"
+            "Glide"
         ],
         "progs": [
             "none"
@@ -1577,10 +1565,7 @@
             "Retention"
         ],
         "progs": [
-            {
-                "name":"Celestial Force",
-                "percent":57
-            }
+            "none"
         ]
     },
     "Clumps": {
@@ -1631,16 +1616,10 @@
             "Retention",
             "Incipient",
             "Acu",
-            "Excessive Compliment",
-            "Zettabyte",
-            "A2Marbl",
-            "Reverence"
+            "Excessive Compliment"
         ],
         "progs": [
-            {
-                "name": "Belloq",
-                "percent": 79
-            }
+            "none"
         ]
     },
     "Coopersuper": {
@@ -1691,10 +1670,6 @@
             {
                 "name": "ElectroLux",
                 "percent": 83
-            },
-            {
-                "name": "Sunset Sandstorm",
-                "percent": 61
             }
         ]
     },
@@ -1728,9 +1703,7 @@
             "Heat Wave",
             "Esencia",
             "Glacial Torrent",
-            "Virtual Collapse",
-            "Acu",
-            "Zettabyte"
+            "Virtual Collapse"
         ],
         "progs": [
             "none"
@@ -2166,8 +2139,7 @@
             "Napalm",
             "The Hell Zone",
             "The Hell World",
-            "SUBVERSIVE",
-            "The Hell Origin"
+            "SUBVERSIVE"
         ],
         "progs": [
             {
@@ -2175,8 +2147,8 @@
                 "percent": 62
             },
             {
-                "name": "The Hell Field",
-                "percent": 71
+                "name": "The Hell Origin",
+                "percent": 63
             }
         ]
     },
@@ -2625,8 +2597,7 @@
             "Misty Mountains",
             "CYCLONE",
             "Audio Expulsion",
-            "Night Party",
-            "Niflheim"
+            "Night Party"
         ],
         "progs": [
             {
@@ -2955,8 +2926,7 @@
             "Thunder Alphabet",
             "Hypersonic",
             "Virtual Collapse",
-            "MELTDOWN",
-            "Precipitance"
+            "MELTDOWN"
         ],
         "progs": [
             "none"
@@ -3280,8 +3250,7 @@
             "Zettabyte",
             "Night Party",
             "Duelo Maestro",
-            "Thanatophobia",
-            "Idols"
+            "Thanatophobia"
         ],
         "progs": [
             {
@@ -3358,8 +3327,7 @@
             "Faith",
             "Excessive Compliment",
             "Twisted Tranquility",
-            "Aurora",
-            "Novalis"
+            "Aurora"
         ],
         "progs": [
             "none"
@@ -6145,8 +6113,7 @@
             "Thanatophobia",
             "Napalm",
             "Virtual Collapse",
-            "MELTDOWN",
-            "Precipitance"
+            "MELTDOWN"
         ],
         "progs": [
             "none"
@@ -6297,8 +6264,7 @@
             "Artificial Dream",
             "Cataclysm",
             "Retention",
-            "Awakening Horus",
-            "ICE Carbon Diablo X"
+            "Awakening Horus"
         ],
         "progs": [
             "none"
@@ -7228,7 +7194,7 @@
         "progs": [
             {
                 "name": "Plasma Pulse Finale",
-                "percent": 59
+                "percent": 53
             }
         ]
     },
@@ -7450,8 +7416,7 @@
         "levels": [
             "Electrosonic",
             "Quest for Perfection",
-            "The Hell Factory",
-            "Hypersonic"
+            "The Hell Factory"
         ],
         "progs": [
             {
@@ -7935,8 +7900,7 @@
             "Excessive Compliment",
             "Doop",
             "Acu",
-            "Sunset Sandstorm",
-            "Esencia"
+            "Sunset Sandstorm"
         ],
         "progs": [
             "none"
@@ -8146,14 +8110,12 @@
     "BOSTONTHEKIDRS": {
         "levels": [
             "Plasma Pulse III",
-            "Incipient",
-            "Tempest Tornado",
-            "Precipitance"
+            "Incipient"
         ],
         "progs": [
             {
                 "name": "distraught",
-                "percent": 81
+                "percent": 72
             }
         ]
     },
@@ -8204,8 +8166,7 @@
             "Incipient",
             "ICE Carbon Diablo X",
             "Thanatophobia",
-            "Artificial Dream",
-            "Maybe Possibly Thing"
+            "Artificial Dream"
         ],
         "progs": []
     },
@@ -8506,8 +8467,7 @@
     "Bejako":{ 
         "levels": [
             "Thanatophobia",
-            "Duelo Maestro",
-            "Idols"
+            "Duelo Maestro"
         ],
         "progs": [
             "none"
@@ -8574,7 +8534,7 @@
 		"progs":[
             {
            "name": "Void Wave",
-           "percent": 71
+           "percent": 66
             }
         ]
     },
@@ -8868,10 +8828,8 @@
             "Esencia"
         ],
         "progs": [
-    {
-            "name" : "Kowareta",
-            "percent" : 60
-        }
+        "none"
+       
         ]
     },
     "Dangadash":{
@@ -9131,8 +9089,7 @@
     },
         "Ali Albasrawy":{
         "levels": [
-            "Hypersonic",
-            "Incipient"
+            "Hypersonic"
         ],
         "progs": [
             "none"
@@ -9150,8 +9107,7 @@
     },
         "Manuca":{
         "levels": [
-            "Hypersonic",
-            "Acu"
+            "Hypersonic"
         ],
         "progs": [
             "none"
@@ -9215,100 +9171,15 @@
             "none"
         ]
     },
-    "PowerSplit":{
-        "levels":[
-            "Acu"
-        ],
-        "progs": [
-            "none"
-        ]
-    },
-    "ysj1005": {
-        "levels": [
-            "Final Epilogue"
-        ],
-        "progs": [
-            "none"
-        ]
-    },
-    "LFlamingo": {
-        "levels": [
-            "Hypersonic"
-        ],
-        "progs": [
-            "none"
-        ]
-    },
-        "Gamer 360 GD":{
-            "levels": [
+    
+        "PowerSplit":{
+            "levels":[
                 "Acu"
             ],
             "progs": [
                 "none"
             ]
-        },
-    "Edwux": {
-        "levels": [
-            "Hypersonic"
-        ],
-        "progs": [
-            "none"
-        ]
-    },
-    "AdqmGD": {
-        "levels": [
-        ],
-        "progs": [
-            {
-            "name": "Plasma Pulse Finale",
-            "percent": "54"
-            }
-        ]
-    },
-    "wrt":{
-            "levels": [
-                "Acu"
-            ],
-            "progs": [
-                "none"
-            ]
-        },
-    "Hikudo": {
-        "levels": [
-        ],
-        "progs": [
-            {
-            "name": "Bloodbath",
-            "percent": "75"
-            }
-        ]   
-    },
-    "CavEmaN_mElviN":{
-            "levels": [
-                "The Hell Dignity"
-            ],
-            "progs": [
-                "none"
-            ]
-        },
-    "Byfor":{
-            "levels": [
-                "SUBVERSIVE"
-            ],
-            "progs": [
-                "none"
-            ]
-        },
-    "SubPerfect":{
-        "levels": [
-            "Cataclysm",
-            "Retention"
-        ],
-        "progs": [
-            {
-        "name": "Artificial Ideology",
-        "percent": "62"
-            }
-        ]
         }
+
+    
 }
